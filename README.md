@@ -31,7 +31,7 @@ Version     : v1
 
 Download [Github](https://github.com/mahisataruna/blur-login-2) & [Mediafire](https://sfl.gl/Y9PSpKC0).
 
-[![Github](https://img.shields.io/badge/Github-Releases-48C21A.svg?style=flat&logo=github)](https://github.com/mahisataruna/blur-login-2) [![Mediafire](https://img.shields.io/badge/Mediafire-Products-EB6920.svg?style=flat&logo=kde)](https://sfl.gl/Y9PSpKC0)
+[![Github](https://img.shields.io/badge/Github-Releases-48C21A.svg?style=flat&logo=github)](https://github.com/mahisataruna/blur-login-2) [![Mediafire](https://img.shields.io/badge/Mediafire-Releases-48C21A.svg?style=flat&logo=Mediafire)](https://sfl.gl/Y9PSpKC0)
 
 
 <p align="center">

@@ -19,7 +19,7 @@ Version     : v1
     <img src="https://img.shields.io/badge/Version1-2024/11/03-blue.svg?longCache=true&style=popout-round"/>
     <img src="https://img.shields.io/badge/Blurry-Login-green.svg?longCache=true&style=flat-round"/>
     <h3>
-        Modern Blurry Login pages 2
+        Modern Blurry Login pages 2 - Blurry login pages are a modern login page that combines a blurry display on the login card.
     </h3>
 </div>
 
@@ -29,9 +29,9 @@ Version     : v1
 
 ## Download
 
-Download [Github](https://github.com/mahisataruna/blur-login-2) & [Pling](https://www.pling.com/p/2174571/).
+Download [Github](https://github.com/mahisataruna/blur-login-2) & [Mediafire](https://mediafire.com/).
 
-[![Github](https://img.shields.io/badge/Github-Releases-48C21A.svg?style=flat&logo=github)](https://github.com/mahisataruna/blur-login-2) [![Pling](https://img.shields.io/badge/Pling-Products-EB6920.svg?style=flat&logo=kde)](https://www.pling.com/p/2174571/)
+[![Github](https://img.shields.io/badge/Github-Releases-48C21A.svg?style=flat&logo=github)](https://github.com/mahisataruna/blur-login-2) [![Mediafire](https://img.shields.io/badge/Mediafire-Products-EB6920.svg?style=flat&logo=kde)](https://mediafire.com)
 
 
 <p align="center">

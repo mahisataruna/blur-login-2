@@ -1,0 +1,10 @@
+{
+    "debug.enableStatusBarColor": true,
+    "workbench.panel.opensMaximized": "never",
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.list.smoothScrolling": true,
+    "editor.cursorBlinking": "expand",
+    "terminal.integrated.smoothScrolling": true,
+
+}

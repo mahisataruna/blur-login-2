@@ -9,4 +9,3 @@
 
 - First commit version 1
 - Blurry login page
-

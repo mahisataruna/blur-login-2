@@ -16,7 +16,7 @@ Version     : v1
 <p align="center"><b>Version 1.0</b></p>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Version1-2024/11/03-blue.svg?longCache=true&style=popout-round"/>
+    <img src="https://img.shields.io/badge/Version1-2024/11/27-blue.svg?longCache=true&style=popout-round"/>
     <img src="https://img.shields.io/badge/Blurry-Login-green.svg?longCache=true&style=flat-round"/>
     <h3>
         Modern Blurry Login pages 2 - Blurry login pages are a modern login page that combines a blurry display on the login card.
@@ -26,6 +26,8 @@ Version     : v1
 ## Feature
 
 - Blur login page
+- Register page [ premium download ]
+- Reset password [ premium downlaod ]
 
 ## Download
 

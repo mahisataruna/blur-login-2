@@ -1,15 +1,38 @@
-<h1 align="center">Changelog :</h1>
+<h1 align="center"><b>Changelog :</b></h1>
 
-### Version 1.0 [Add reset password page : 20241128]
+<p align="center">All important changes to this project will be documented in this file, format is based on [Keep a
+Changelog](https://keepachangelog.com/en/1.0.0/). There are several types of changes to this file, including: <b>Added, Update, Fixed, Change, and Removed</b>.</p>
 
-- Added reset password page
+## [Release]
 
-### Version 1.0 [Add register page : 20241103]
+## [v1.0] - 20241130
 
-- Added register page
-- Minor update style.css
+### Change
+- Start using new <b>CHANGELOG.md</b> format
 
-### Version 1.0 [First Commit : 20241103]
+### Removed
+- Remove .vscode file
 
-- First commit version 1
-- Blurry login page
+## [v1.0] - 20241128
+
+### Added
+- Blurry Reset Password Page
+
+## [v1.0] - 20241103
+
+### Added
+- Blurry Register Page
+
+### Change
+- Minor update style.css file
+
+## [Unreleased]
+
+## [1.0] - 20241103
+
+### Added
+- Fisrt Commit version 1.0
+- Blurry login page [index.html]
+- stylesheet
+- version.json
+- anything!

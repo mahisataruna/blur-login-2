@@ -5,7 +5,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/). There are several types of cha
 
 ## [Release]
 
-## [v1.0] - 20241130
+## [1.0.1] - 2024-11-30
 
 ### Change
 - Start using new <b>CHANGELOG.md</b> format
@@ -13,12 +13,12 @@ Changelog](https://keepachangelog.com/en/1.0.0/). There are several types of cha
 ### Removed
 - Remove .vscode file
 
-## [v1.0] - 20241128
+## [1.0.1] - 2024-11-28
 
 ### Added
 - Blurry Reset Password Page
 
-## [v1.0] - 20241103
+## [1.0.0] - 2024-11-03
 
 ### Added
 - Blurry Register Page
@@ -28,7 +28,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/). There are several types of cha
 
 ## [Unreleased]
 
-## [1.0] - 20241103
+## [1.0.0] - 2024-11-03
 
 ### Added
 - Fisrt Commit version 1.0
